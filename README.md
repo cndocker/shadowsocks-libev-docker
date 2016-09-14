@@ -4,7 +4,7 @@
 ##2、版本
 [cndocker/shadowsocks-libev:1.0.20160914](https://hub.docker.com/r/cndocker/shadowsocks-libev/)
 
-shadowsocks-libev 2.5.2
+[shadowsocks-libev 2.5.2](https://github.com/shadowsocks/shadowsocks-libev/tree/v2.5.2)
 ##3、问题
 如何安装Docker
 
